@@ -1,0 +1,11 @@
+Instruções:
+
+1 - Importar projeto no eclipse.
+2 – Modificar banco de dados no arquivo de propriedades:
+/xyinc/src/main/resources/application.properties
+3 – Startar projeto;
+OBS: Automaticamente ele criara o banco com a Tabela e alguns dados já
+inserido. (flyway)
+
+Documentação da API:
+https://documenter.getpostman.com/view/2153953/xyinc/7LjB4Q8
